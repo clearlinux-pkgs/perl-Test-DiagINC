@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-DiagINC
 Version  : 0.008
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Test-DiagINC-0.008.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Test-DiagINC-0.008.tar.gz
 Summary  : 'List modules and versions loaded if tests fail'
