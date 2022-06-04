@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-DiagINC
 Version  : 0.008
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Test-DiagINC-0.008.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Test-DiagINC-0.008.tar.gz
 Summary  : 'List modules and versions loaded if tests fail'
@@ -99,4 +99,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Test/DiagINC.pm
+/usr/lib/perl5/*
